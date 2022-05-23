@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abvortisch
 - 👀 I’m interested in labor and migration economics.
-- 🌱 I’m currently learning how to build a website, navigate life and job search during pandemic times and many other things.
+- 🌱 I’m currently learning how to code and use that on big machines.
 - 💞️ I’m looking to collaborate on research projects in the future.
 - 📫 How to reach me: andreas.vortisch@uni.lu
 
